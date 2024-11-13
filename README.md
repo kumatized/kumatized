@@ -2,6 +2,7 @@
 - 👀 I’m interested in games, anime, progamming, bears and basketball
 - 🌱 I’m currently learning C# and Python cause yeaaaah me gusta
 - 📫 You can reach me on discord (kumatized)
+- 🐻 Currently in the process of uploading a few games I did as an hobby (after the i find a way to put a large file into GitHub).
 
 <!---
 kumatized/kumatized is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
